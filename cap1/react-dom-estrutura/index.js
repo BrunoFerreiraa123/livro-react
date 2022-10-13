@@ -1,0 +1,1 @@
+const header = React.createElement("header", {}, "Editora MaujorTec");
