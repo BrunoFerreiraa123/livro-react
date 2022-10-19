@@ -10,5 +10,4 @@ const busStop = (bus) => {
 
 return entryBus - outBus;
 }
-
 console.log(busStop([[10, 0], [3, 5], [5, 8]])
