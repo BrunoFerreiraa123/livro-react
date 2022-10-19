@@ -2,7 +2,6 @@ const busStop = (bus) => {
     let entryBus = 0;
     let outBus = 0;
 
-    
     for (let val of bus) {
 
     entryBus += val[0]
