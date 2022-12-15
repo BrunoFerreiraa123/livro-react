@@ -9,4 +9,3 @@ const TabelaFoot = (props) => (
 );
 
 export default TabelaFoot;
-
